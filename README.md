@@ -19,7 +19,7 @@
 	* Passing Data to Child Component
 	* Validating props
 	* Passing data to Parent Component
-	# * Understanding Unidirectional Data Flow
+	[//]: # * Understanding Unidirectional Data Flow
 * Directives
 	* v-if
 	* v-show
